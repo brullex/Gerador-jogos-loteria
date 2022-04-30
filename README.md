@@ -22,11 +22,11 @@ Python 3.10.4
 
 ## 🎁 Expressões de gratidão
 
-* Ola, eu sou Bruno Alex, iniciei meu estudos em Python a exatos 37 dias, dentro do tempo que tenho, até o presente momento passei pelos módulos
-* básicos de estruturas de repetição, condicionais, listas, tuplas, dicionários e iniciei em funções.
-* Esse é o primeiro código que desenvolvi do zero, usando apenas o que já aprendi e pesquisas no google sobre libs e formatações.
-* Pretendo ir melhorando esse joguinho a medida que eu for aprendendo mais funcionalidades da linguagem, usarei esses
-* projetos exercícios como base para minha evolução dentro da linguagem.
+Ola, eu sou Bruno Alex, iniciei meu estudos em Python a exatos 37 dias, dentro do tempo que tenho, até o presente momento passei pelos módulos
+básicos de estruturas de repetição, condicionais, listas, tuplas, dicionários e iniciei em funções.
+Esse é o primeiro código que desenvolvi do zero, usando apenas o que já aprendi e pesquisas no google sobre libs e formatações.
+Pretendo ir melhorando esse joguinho a medida que eu for aprendendo mais funcionalidades da linguagem, usarei esses
+projetos exercícios como base para minha evolução dentro da linguagem.
 
 
 ---
