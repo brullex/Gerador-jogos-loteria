@@ -13,7 +13,7 @@ Python 3.10.4
 
 ## ✒️ Autores
 
-* **Bruno Alex** - *Trabalho Inicial* - [Bruno Alex](https://github.com/brullex)
+* **Bruno Alex** - *Trabalho Inicial/Final* - [Bruno Alex](https://github.com/brullex)
 
 
 ## 📄 Licença
