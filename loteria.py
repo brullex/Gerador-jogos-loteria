@@ -4,8 +4,7 @@ import locale
 
 
 def menu():
-    while True:
-        menu = '''
+    menu = '''
 [1] - Mega-Sena
 [2] - Lotofacil
 [3] - Quina
@@ -15,37 +14,38 @@ def menu():
 [7] - Dia-de-Sorte
 [s] - Sair
         '''
+    while True:
         print(menu)
-        menu = input('Escolha uma opção: ')
-        if menu == '1':
+        opcao_menu = input('Escolha uma opção: ')
+        if opcao_menu == '1':
             print('#'*25, 'MEGA-SENA', '#'*25)
             print('Você pode marcar na cartela entre 6 a 15 números dos 60 disponíveis.\n')
             mega_sena()
-        elif menu == '2':
+        elif opcao_menu == '2':
             print('#'*25, 'LOTOFACIL', '#'*25)
             print('Você pode marcar na cartela entre 15 a 20 números dos 25 disponíveis:\n')
             lotofacil()
-        elif menu == '3':
+        elif opcao_menu == '3':
             print('#'*25, 'QUINA', '#'*25)
             print('Você pode marcar na cartela entre 5 a 15 números dos 80 disponíveis: \n')
             quina()
-        elif menu == '4':
+        elif opcao_menu == '4':
             print('#'*25, 'LOTOMANIA', '#'*25)
             print('Marque o maximo de 50 números dos disponíveis de 0 a 99:\n')
             lotomania()
-        elif menu == '5':
+        elif opcao_menu == '5':
             print('#'*25, 'TIMEMANIA', '#'*25)
             print('Escolha um time do coração e 10 números.\n')
             timemania()
-        elif menu == '6':
+        elif opcao_menu == '6':
             print('#'*25, 'DUPLA-SENA', '#'*25)
             print('Você pode marcar na cartela entre 6 a 15 números dos 50 disponíveis.\n')
             dupla_sena()
-        elif menu == '7':
+        elif opcao_menu == '7':
             print('#'*25, 'DIA-DE-SORTE', '#'*25)
             print('Você pode marcar na cartela entre 7 a 15 números dos 31 disponíveis.\n')
             dia_de_sorte()            
-        elif menu.lower() == 's':
+        elif opcao_menu.lower() == 's':
             print('Obrigado por usar o Gerador de números da loteria esportiva...')
             break
         else:
